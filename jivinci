@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+		
+		body {
+			background-color: black;
+				
+				
+			text-align: left;
+			
+		}
+		
+		h1{
+		color: antiquewhite;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			font-size: 400%;
+				padding-left: 80px;
+				padding-top: 80px
+				;
+		}
+		
+		p{padding-left: 80px;
+		  padding-top: 80px;
+		color: antiquewhite;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		border-bottom: medium thick}
+		
+		a {
+		   color: cadetblue;
+		   text-align: left}
+		ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: antiquewhite;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+		
+	</style>
+<meta charset="UTF-8">
+<title>my personal website</title>
+</head>
+	<body>
+		
+		<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+		<h1 style="text-align: left">"A whole new way <br>of communicating." </h1>  
+		
+		    <p>Learn More</p>
+		
+		<h3 style="text-align: left">Jivinci</h3>
+		
+		
+		
+		
+</body>
+</html>
