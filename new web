@@ -1,0 +1,130 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+		
+		body {
+			background-color: black;
+				
+				
+			text-align: left;
+			
+		}
+		
+		h1{
+		color: antiquewhite;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			font-size: 400%;
+				padding-left: 80px;
+				padding-top: 80px
+				;
+		}
+		
+		h2{ color: black;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			background-color: antiquewhite;
+			padding:80px;
+			font-size: 60px;
+			background-size: 100%
+			
+		}
+		
+		p{padding-left: 80px;
+		  padding-top: 80px;
+		color: antiquewhite;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		border-bottom: medium thick}
+		
+		a {
+		   color: cadetblue;
+		   text-align: left}
+		ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: ;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: antiquewhite;
+  text-align: center;
+  padding: 10px 20px;
+	padding-right: 30px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:antiquewhite;
+	color: black;
+}
+	
+		
+		.btn {
+  position:fixed  static;
+  top: 50%;
+  left: 50%;
+  transform: translate(60%, 90%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:antiquewhite;
+  color: black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+			
+			
+}
+		
+		.btn:hover {
+  background-color: black;
+  color: antiquewhite;
+}
+		
+	</style>
+<meta charset="UTF-8">
+<title>my personal website</title>
+</head>
+	<body>
+		
+		<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+		<h1 style="text-align: left">"A whole new way <br>of communicating." </h1>  
+		
+		    
+		<button class="btn"> Learn More</button>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<h2>Jivinci is a pretty <br>awesome Art-director!</h2>
+		
+		
+		
+		
+		
+</body>
+</html>
